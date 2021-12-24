@@ -1,3 +1,2 @@
 # Java
-Java course - OOP\n
-Data structure
+Java course - OOP, Data structure course
